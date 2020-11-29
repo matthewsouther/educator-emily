@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kids' interests matter
-image: /img/bubble.jpg
+image: /img/bubble_narrow.jpg
 heading: Kids' interests matter
 subheading: Connecting with kids' interests can help them both persevere and
   prepare for the world ahead.
