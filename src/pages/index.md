@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Kids' interests matter
-image: /img/bubble_narrow.jpg
-heading: Kids' interests matter
+title: Your child's interests matter
+image: /img/rikitiki-bw-narrow.jpg
+heading: Your child's interests are important
 subheading: Connect with them to help them grow.
 mainpitch:
   title: Why Emily?

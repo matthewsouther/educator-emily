@@ -22,8 +22,8 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundColor: '#8ac926',
-        backgroundBlendMode: 'multiply',
+        backgroundColor: '#fff',
+        backgroundBlendMode: 'darken',
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
       }}
@@ -41,7 +41,8 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            color: 'black',
+            backgroundColor: '#FFC300',
+            color: 'white',
             lineHeight: '1',
             padding: '0.25em',
           }}
@@ -51,9 +52,9 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              'black 0.5rem 0px 0px, black -0.5rem 0px 0px',
-            backgroundColor: 'black',
+            // boxShadow:
+              // 'black 0.5rem 0px 0px, black -0.5rem 0px 0px',
+            backgroundColor: 'seagreen',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -88,8 +89,8 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
+                    <Link className="btn" to="/services">
+                      See all services
                     </Link>
                   </div>
                 </div>
