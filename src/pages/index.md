@@ -3,8 +3,7 @@ templateKey: index-page
 title: Kids' interests matter
 image: /img/bubble_narrow.jpg
 heading: Kids' interests matter
-subheading: Connecting with kids' interests can help them both persevere and
-  prepare for the world ahead.
+subheading: Connect with them to help them grow.
 mainpitch:
   title: Why Emily?
   description: Emily is the educator for everyone who believes that great kid

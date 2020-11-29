@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Emily Souther, Educator',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'K-5 homeschooling and educational resources and services from Emily Souther',
+    author: 'Emily Souther',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
