@@ -7,6 +7,8 @@ title: Educational Services
 
 *All services target the unique needs of your child. I listen carefully to your wants and needs as a parent, observe your child’s skills and passions, and integrate my experience and knowledge as a trained education professional to build a rich and dynamic learning experience for your child.*
 
+![](/img/img_0608-1-.jpg)
+
 ### Curriculum Development
 
 Has your child expressed an interest in a topic, but you just don’t know where to go with it? Not sure how to teach reading? I will work with you to develop a fully-fleshed out unit including:
