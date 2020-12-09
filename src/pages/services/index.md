@@ -37,4 +37,6 @@ Weekly 1-hour lessons to target a specific academic need or enrich your child's 
 
 ![](/img/img_4110-1-.jpg)
 
-### Customized
+### Something Else or a Combination of Offerings?
+
+Just like your child, it's hard to pin-point exactly what you're looking for. I'd love to hear what you're thinking and work with you to design a plan that works for your family.
