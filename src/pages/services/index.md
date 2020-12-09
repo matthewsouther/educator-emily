@@ -1,19 +1,40 @@
 ---
-templateKey: 'services-page'
+templateKey: services-page
 path: /services
 title: Services
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+*Specializing in ages 5-10*
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+*All services target the unique needs of your child. I listen carefully to your wants and needs as a parent, observe your child’s skills and passions, and integrate my experience and knowledge as a trained education professional to build a rich and dynamic learning experience for your child.*
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Curriculum Development
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Has your child expressed an interest in a topic, but you just don’t know where to go with it? Not sure how to teach reading? I will work with you to develop a fully-fleshed out unit including:
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+* * Scope and sequence for the unit
+  * Step-by-step lesson plans for you to use at home
+  * Resource guide
+
+All units are developed collaboratively and with your child’s specific skills and interests in mind. We can remain in contact while you move through the unit so lessons can be reworked and updated as you go along.
+
+### Evaluation
+
+Are you feeling stuck or not sure what to do next with your child? Are you concerned about your child’s progress or wondering if they have a learning disability? Let’s meet about your concerns and discuss next-step options for your child. 
+
+After an initial conversation with you, I will meet with your child to engage in some fun activities, perform basic skills testing, and collect observations regarding your concerns. We will then have a follow-up meeting to discuss my findings and provide you with recommendations for next-steps.
+
+### Homeschool Classroom Design
+
+Just getting into homeschooling or have a homeschool setup that isn’t working? Are you overwhelmed by the mountains of materials that are building up? I will come to your home and design a homeschool learning space that promotes learning, independence, and excitement.
+
+### Field Trips
+
+Guided field trips to a variety of locations with pre and post lessons to build understanding and reinforce learning.
+
+### In-home Classes and Tutoring
+
+Weekly 1-hour lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children. 
+
+![](/img/img_4110-1-.jpg)
+
+### Customized
