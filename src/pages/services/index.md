@@ -1,7 +1,7 @@
 ---
 templateKey: services-page
 path: /services
-title: Services
+title: Educational Services
 ---
 *Specializing in ages 5-10*
 
