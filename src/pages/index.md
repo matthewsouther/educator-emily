@@ -19,11 +19,12 @@ intro:
   blurbs:
     - image: /img/trailhead.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        I believe in education through connection. We all think and learn
+        differently and your family is it's own unique organism. That's why I
+        offer you a place to build your vision for your family and your child's
+        education. There are as many options as there are humans and I can help
+        you navigate the winding path and form a trailhead that is right for
+        your family. 
   heading: ggggg
   description: |
     ggggg
