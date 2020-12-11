@@ -2,40 +2,21 @@
 templateKey: index-page
 title: Your child's interests matter
 image: /img/rikitiki-bw-narrow.jpg
-heading: Your child's interests are important
-subheading: Connect with them to help them grow.
+heading: You can do this. I can help.
+subheading: Connect with them to help them soar.
 mainpitch:
-  title: Why Emily?
-  description: Emily is the educator for everyone who believes that great kid
-    shouldn't just taste good, it should do good too. We source all of our kids
-    directly from small scale families and make sure part of the profits are
-    reinvested in their IRA's.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Why Educator Emily?
+  description: Guess what? Education is not about any specific academic content.
+    It's about teaching your child how to learn. Your child learned to crawl,
+    walk, talk, and love all through self-direction, internal motivation, and
+    space to explore. Now you can fuel that drive so they can follow their path
+    to becoming creative, problem-solving, secure, and happy grown-ups. Isn't
+    that what we all want for our children?
+description: "I am your support system. I am your secret insider who knows what
+  happens in education. I am passionate about learning and even more passionate
+  about setting children free to soar.  "
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -43,12 +24,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: ggggg
+  description: |
+    ggggg
 main:
   heading: Great coffee with no compromises
   description: >
