@@ -20,11 +20,16 @@ intro:
     - image: /img/trailhead.jpg
       text: >
         I believe in education through connection. We all think and learn
-        differently and your family is it's own unique organism. That's why I
+        differently and your family is its own unique organism. That's why I
         offer you a place to build your vision for your family and your child's
         education. There are as many options as there are humans and I can help
         you navigate the winding path and form a trailhead that is right for
         your family. 
+    - image: /img/bird-snest.jpg
+      text: "Surfing the web for lessons and activities can be exhausting,
+        overwhelming, and a drain on your time. I can help. Let's chat about
+        what your child is interested in and I can create a unit designed for
+        your family. Open and go lessons, field trips, and resources. Done. "
   heading: ggggg
   description: |
     ggggg
