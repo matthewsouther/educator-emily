@@ -17,7 +17,7 @@ description: "I am your support system. I am your secret insider who knows what
   about setting children free to soar.  "
 intro:
   blurbs:
-    - image: /img/meeting-space.png
+    - image: /img/trailhead.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
