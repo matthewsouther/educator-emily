@@ -9,9 +9,13 @@ title: Educational Services
 
 ![](/img/balancingact.jpg)
 
+### Trailhead 
+
+Are you unsure which path to take or where the dang trailhead even is? Are you thinking of making some radical changes in your child's education, or even just some minor tweaks to help uplift your family? There are many paths to take and the secret is, you don't have to follow the one that someone else is on. Let me work with you to build a path that inspires joy, connection, and self-direction. 
+
 ### Curriculum Development
 
-Has your child expressed an interest in a topic, but you just don’t know where to go with it? Not sure how to teach reading? I will work with you to develop a fully-fleshed out unit including:
+Has your child expressed interest in a topic, but you just don’t know where to go with it? Not sure how to teach reading... or maybe even scarier, math? I will work with you to develop a fully-fleshed out unit including:
 
 * * Scope and sequence for the unit
   * Step-by-step lesson plans for you to use at home
