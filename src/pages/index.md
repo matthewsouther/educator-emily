@@ -16,7 +16,7 @@ description: "I am on your team. I am your secret weapon who knows what happens
   setting children free to soar.  "
 intro:
   blurbs:
-    - image: /img/trailhead.jpg
+    - image: /img/trailhead2.jpg
       text: >
         I believe in education through connection. We all think and learn
         differently and your family is its own unique organism. That's why I
