@@ -9,7 +9,7 @@ title: Educational Services
 
 ![](/img/balancingact.jpg)
 
-### Trailhead 
+### Trailhead
 
 Are you unsure which path to take or where the dang trailhead even is? Are you thinking of making some radical changes in your child's education, or even just some minor tweaks to help uplift your family? There are many paths to take and the secret is, you don't have to follow the one that someone else is on. Let me work with you to build a path that inspires joy, connection, and self-direction. 
 
@@ -45,7 +45,7 @@ Guided field trips to a variety of locations with pre and post lessons to build 
 
 ### In-home Classes and Tutoring
 
-Weekly 1-hour lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children. 
+Weekly lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children. 
 
 ![](/img/img_4110-1-.jpg)
 
