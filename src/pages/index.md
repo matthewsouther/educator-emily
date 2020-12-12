@@ -8,9 +8,9 @@ mainpitch:
   title: Why Emily?
   description: Your child was born a scientist, explorer, and problem solver.  She
     learned to crawl, walk, talk, and love all through self-direction, internal
-    motivation, and space to explore. Now you can fuel that drive so they can
-    follow their path to becoming creative, problem-solving, secure, and happy
-    grown-ups. Isn't that what we all want for our children?
+    motivation, and space to experiment. Now you can fuel that drive so she can
+    follow her path to becoming a creative, problem-solving, secure, and happy
+    grown-up. Isn't that what we all want for our children?
 description: "I am on your team. I am your secret weapon who knows what happens
   in education. I am passionate about learning and even more passionate about
   setting children free to soar.  "
