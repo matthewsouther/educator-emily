@@ -3,11 +3,12 @@ templateKey: about-page
 path: /about
 title: Who is Educator Emily?
 ---
+* CA Certified Teacher
+* MA in Curriculum and Instruction 
+
 I am a person with many passions and a deep enthusiasm for life and learning. I explore the world through music, art, literature, science, and the outdoors, but my deepest passion--and truly my life’s work--is working with children.
 
 ![](/img/emilybio.jpg)
-
-
 
 I have been an educator in public and private schools since 2008. I began my teaching experience in a highly progressive school in Menlo Park, California. This was a place where children and the valuable work they do--play in all its forms--was deeply respected. Here I learned the importance of giving children trust to know the abilities of their bodies, to take physical, social, and intellectual risks, and to ask for help when they need it. As an educator, I believe I am tasked with being a guide and mentor to the children I work with. I teach my students reading and math, but I also encourage leadership in the children, hold group meetings to resolve social conflicts, and listen carefully to understand each child’s interests and motivations in the world.
 
