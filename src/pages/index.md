@@ -5,16 +5,15 @@ image: /img/rikitiki-bw-narrow.jpg
 heading: You can do this. I can help.
 subheading: Connect with them to help them soar.
 mainpitch:
-  title: Why Educator Emily?
-  description: Guess what? Education is not about any specific academic content.
-    It's about teaching your child how to learn. Your child learned to crawl,
-    walk, talk, and love all through self-direction, internal motivation, and
-    space to explore. Now you can fuel that drive so they can follow their path
-    to becoming creative, problem-solving, secure, and happy grown-ups. Isn't
-    that what we all want for our children?
-description: "I am your support system. I am your secret insider who knows what
-  happens in education. I am passionate about learning and even more passionate
-  about setting children free to soar.  "
+  title: Why Emily?
+  description: Your child was born a scientist, explorer, and problem solver.  She
+    learned to crawl, walk, talk, and love all through self-direction, internal
+    motivation, and space to explore. Now you can fuel that drive so they can
+    follow their path to becoming creative, problem-solving, secure, and happy
+    grown-ups. Isn't that what we all want for our children?
+description: "I am on your team. I am your secret weapon who knows what happens
+  in education. I am passionate about learning and even more passionate about
+  setting children free to soar.  "
 intro:
   blurbs:
     - image: /img/trailhead.jpg
