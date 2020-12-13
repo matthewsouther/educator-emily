@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Who is Educator Emily?
 ---
-* [Certified K-6 Teacher](https://educator.ctc.ca.gov/siebel/app/esales/enu?SWECmd=GotoView&SWEView=CTC+Person+Detail+Current+Auth+Subj+View+Web&SWERF=1&SWEHo=&SWEBU=1&SWEApplet0=CTC+Public+Person+Detail+Form+Applet+Web&SWERowId0=1-R7SRX&SWEApplet1=CTC+Current+Document+List+Applet+Web&SWERowId1=1-4SOQV9)
+* Certified K-6 Teacher
 * MA in Curriculum and Instruction 
 
 I am a person with many passions and a deep enthusiasm for life and learning. I explore the world through music, art, literature, science, and the outdoors, but my deepest passion--and truly my life’s work--is working with children.
