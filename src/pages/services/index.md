@@ -41,21 +41,25 @@ All units are developed collaboratively and with your child’s specific skills 
 
 Are you feeling stuck or not sure what to do next with your child? Are you concerned about your child’s progress or wondering if they have a learning disability? Let’s meet about your concerns and discuss next-step options for your child. 
 
-After an initial conversation with you, I will meet with your child to engage in some fun activities, perform basic skills testing, and collect observations regarding your concerns. We will then have a follow-up meeting to discuss my findings and provide you with recommendations for next-steps.
+After an initial conversation with you, I will meet with your child to engage in some fun activities, perform basic skills testing, and collect observations regarding your concerns. We will then have a follow-up meeting to discuss my findings. *While I cannot diagnose learning or behavioral differences, I can provide you with recommendations for next-steps based on my experiences working with hundreds of children over 12 years.* 
 
 ### Homeschool Classroom Design
 
 Just getting into homeschooling or have a homeschool setup that isn’t working? Are you overwhelmed by the mountains of materials that are building up? I will come to your home and design a homeschool learning space that promotes learning, independence, and excitement.
 
-### Field Trips
+### Teaching Services
 
-Guided field trips to a variety of locations with pre and post lessons to build understanding and reinforce learning.
+Let me round out your homeschool curriculum with in-person teaching to provide enrichment or tackle a specific academic topic.
+
+* * **In-home classes or tutoring:** Weekly lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children.
+  * **Field trips**: Guided field trips to a variety of locations with pre and post lessons to build understanding and reinforce learning.
+  * **Homeschool co-op teacher:** Full or half day sessions 1 or 2 times per week for your home-school group. I will build a microschool environment for your kids with community circle, literacy and math work, science, art, and plenty more fun! This is a great way to build social skills and mix-up your week. Sessions meet in one of the children’s homes and requires one parent helper per session. 
+
+
 
 ![](/img/fieldtrip.jpg)
 
-### In-home Classes and Tutoring
-
-Weekly lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children. 
+ 
 
 ![](/img/img_4110-1-.jpg)
 
