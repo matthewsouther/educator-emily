@@ -3,15 +3,25 @@ templateKey: services-page
 path: /services
 title: Educational Services
 ---
-*Specializing in ages 5-10*
+*Specializing in ages 4-10*
 
 *All services target the unique needs of your child. I listen carefully to your wants and needs as a parent, observe your child’s skills and passions, and integrate my experience and knowledge as a trained education professional to build a rich and dynamic learning experience for your child.*
 
 ![](/img/balancingact.jpg)
 
-### Trailhead
+### New Client Consultation 
 
-Are you unsure which path to take or where the dang trailhead even is? Are you thinking of making some radical changes in your child's education, or even just some minor tweaks to help uplift your family? There are many paths to take and the secret is, you don't have to follow the one that someone else is on. Let me work with you to build a path that inspires joy, connection, and self-direction. 
+Schedule a **free 20 min. phone or video consultation** so we can talk through what you've been doing at home, what you're looking for, and what I can offer. I will answer any questions you have about homeschool coaching and we can figure out next steps together. 
+
+### Coaching Sessions
+
+Coaching sessions are designed to help you through the challenges of homeschooling. We will discuss what's been working and not working in your homeschool along with academic and social goals you have for your child. Then I will coach you through building a home learning environment that inspires joy, connection, and self-direction. **After all coaching sessions I will send you notes from our discussion, a "next-steps" plan, and resources to use.** 
+
+Potential packages include:
+
+* * **Weekly, Monthly, or Quarterly 30 min. calls** to touch-base and troubleshoot if needed.   
+  * **1-hour phone or video call** to discuss how things are going and what adjustments could be made. 
+  * **Three 1-hour coaching sessions.** Ideal for new homeschool families, and those looking to dig deeper into their plan with some intensive review.  
 
 ### Curriculum Development
 
