@@ -9,6 +9,8 @@ title: Educational Services
 
 ![](/img/balancingact.jpg)
 
+# Coaching Services
+
 ### New Client Consultation 
 
 Schedule a **free 20 min. phone or video consultation** so we can talk through what you've been doing at home, what you're looking for, and what I can offer. I will answer any questions you have about homeschool coaching and we can figure out next steps together. 
@@ -47,24 +49,24 @@ After an initial conversation with you, I will meet with your child to engage in
 
 Just getting into homeschooling or have a homeschool setup that isn’t working? Are you overwhelmed by the mountains of materials that are building up? I will come to your home and design a homeschool learning space that promotes learning, independence, and excitement.
 
-### Teaching Services
+# **Teaching Services**
 
 Let me round out your homeschool curriculum with in-person teaching to provide enrichment or tackle a specific academic topic.
 
-* * **In-home classes or tutoring:** Weekly lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children.
-  * **Field trips**: Guided field trips to a variety of locations with pre and post lessons to build understanding and reinforce learning.
-  * **Homeschool co-op teacher:** Full or half day sessions 1 or 2 times per week for your home-school group. I will build a microschool environment for your kids with community circle, literacy and math work, science, art, and plenty more fun! This is a great way to build social skills and mix-up your week. Sessions meet in one of the children’s homes and requires one parent helper per session. 
+### In-home Classes or Tutoring
 
-
-
-![](/img/fieldtrip.jpg)
-
- 
+Weekly lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children.
 
 ![](/img/img_4110-1-.jpg)
 
-### Something Else or a Combination of Offerings?
+### Field Trips 
 
-Just like your child, it's hard to pin-point exactly what you're looking for. I'd love to hear what you're thinking and work with you to design a plan that works for your family.
+Guided field trips to a variety of locations with pre and post lessons to build understanding and reinforce learning.
+
+![](/img/fieldtrip.jpg)
+
+### Homeschool Co-op Teacher 
+
+Full or half day sessions 1 or 2 times per week for your home-school group. I will build a microschool environment for your kids with community circle, literacy and math work, science, art, and plenty more fun! This is a great way to build social skills and mix-up your week. Sessions meet in one of the children’s homes and requires one parent helper per session. 
 
 ![](/img/moon.jpg)
