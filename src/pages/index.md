@@ -24,7 +24,7 @@ intro:
         education. There are as many options as there are humans and I can help
         you navigate the winding path and form a trailhead that is right for
         your family. 
-    - image: /img/bird-snest.jpg
+    - image: /img/birds_nest.jpg
       text: "Surfing the web for lessons and activities can be exhausting,
         overwhelming, and a drain on your time. I can help. Let's chat about
         what your child is interested in and I can create a unit designed for
