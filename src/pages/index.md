@@ -16,14 +16,14 @@ description: "I am on your team. I am your secret weapon who knows what happens
   setting children free to soar.  "
 intro:
   blurbs:
-    - image: /img/trailhead2.jpg
+    - image: /img/light.jpg
       text: >
         I believe in education through connection. We all think and learn
         differently and your family is its own unique organism. That's why I
         offer you a place to build your vision for your family and your child's
         education. There are as many options as there are humans and I can help
-        you navigate the winding path and form a trailhead that is right for
-        your family. 
+        you navigate the winding path and form a plan that is right for your
+        family. 
     - image: /img/birds_nest.jpg
       text: "Surfing the web for lessons and activities can be exhausting,
         overwhelming, and a drain on your time. I can help. Let's chat about
