@@ -5,7 +5,7 @@ image: /img/rikitiki-bw-narrow.jpg
 heading: You can do this. I can help.
 subheading: Connect with them to help them soar.
 mainpitch:
-  title: "Let me help your child take off "
+  title: Let me help your child take off
   description: Your child was born a scientist, explorer, and problem solver.  She
     learned to crawl, walk, and talk all through self-direction, internal
     motivation, and space to experiment. Now you can fuel that drive so she can
@@ -16,7 +16,7 @@ description: "I am on your team. I am your secret weapon who knows the ins and
   about setting children free to soar.  "
 intro:
   blurbs:
-    - image: /img/light.jpg
+    - image: /img/light2.jpg
       text: >
         I believe in education through connection. We all think and learn
         differently and your family is its own unique organism. That's why I
