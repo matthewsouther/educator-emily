@@ -5,15 +5,15 @@ image: /img/rikitiki-bw-narrow.jpg
 heading: You can do this. I can help.
 subheading: Connect with them to help them soar.
 mainpitch:
-  title: Why Emily?
+  title: "Let me help your child take off "
   description: Your child was born a scientist, explorer, and problem solver.  She
-    learned to crawl, walk, talk, and love all through self-direction, internal
+    learned to crawl, walk, and talk all through self-direction, internal
     motivation, and space to experiment. Now you can fuel that drive so she can
     follow her path to becoming a creative, problem-solving, secure, and happy
     grown-up. Isn't that what we all want for our children?
-description: "I am on your team. I am your secret weapon who knows what happens
-  in education. I am passionate about learning and even more passionate about
-  setting children free to soar.  "
+description: "I am on your team. I am your secret weapon who knows the ins and
+  outs of education. I am passionate about learning and even more passionate
+  about setting children free to soar.  "
 intro:
   blurbs:
     - image: /img/light.jpg
