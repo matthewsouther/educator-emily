@@ -9,11 +9,9 @@ title: Homeschool Coaching and Teaching Services
 
 ![](/img/balancingact.jpg)
 
-
-
 # Coaching Services
 
-### New Client Consultation 
+### New Client Consultation
 
 Schedule a **free 20 min. phone or video consultation** so we can talk through what you've been doing at home, what you're looking for, and what I can offer. I will answer any questions you have about homeschool coaching and we can figure out next steps together. 
 
@@ -45,7 +43,7 @@ All units are developed collaboratively and with your child’s specific skills 
 
 Are you feeling stuck or not sure what to do next with your child? Are you concerned about your child’s progress or wondering if they have a learning disability? Let’s meet about your concerns and discuss next-step options for your child. 
 
-After an initial conversation with you, I will meet with your child to engage in some fun activities, perform basic skills testing, and collect observations regarding your concerns. We will then have a follow-up meeting to discuss my findings. *While I cannot diagnose learning or behavioral differences, I can provide you with recommendations for next-steps based on my experiences working with hundreds of children over 12 years.* 
+After an initial conversation with you, I will meet with your child to engage in some fun activities, perform basic skills testing, and collect observations regarding your concerns. We will then have a follow-up meeting to discuss my findings. *While I cannot diagnose learning or behavioral differences, I can provide you with recommendations for next-steps based on my experiences working with hundreds of children over many years.* 
 
 ### Homeschool Classroom Design
 
@@ -53,7 +51,9 @@ Just getting into homeschooling or have a homeschool setup that isn’t working?
 
 # **Teaching Services**
 
-Let me round out your homeschool curriculum with in-person teaching to provide enrichment or tackle a specific academic topic.
+Located in Portland, Oregon.
+
+Let me round out your homeschool curriculum with **in-person teaching** to provide enrichment or tackle a specific academic topic.
 
 ### In-home Classes or Tutoring
 
@@ -61,13 +61,13 @@ Weekly lessons to target a specific academic need or enrich your child's learnin
 
 ![](/img/img_4110-1-.jpg)
 
-### Field Trips 
+### Field Trips
 
 Guided field trips to a variety of locations with pre and post lessons to build understanding and reinforce learning.
 
 ![](/img/fieldtrip.jpg)
 
-### Homeschool Co-op Teacher 
+### Homeschool Co-op Teacher
 
 Full or half day sessions 1 or 2 times per week for your home-school group. I will build a microschool environment for your kids with community circle, literacy and math work, science, art, and plenty more fun! This is a great way to build social skills and mix-up your week. Sessions meet in one of the children’s homes and requires one parent helper per session. 
 
