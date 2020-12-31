@@ -72,3 +72,13 @@ Guided field trips to a variety of locations with pre and post lessons to build 
 Full or half day sessions 1 or 2 times per week for your home-school group. I will build a microschool environment for your kids with community circle, literacy and math work, science, art, and plenty more fun! This is a great way to build social skills and mix-up your week. Sessions meet in one of the children’s homes and requires one parent helper per session. 
 
 ![](/img/moon.jpg)
+
+> "Emily is a dedicated teacher with superb leadership qualities. She is detail-oriented with an eye to research-based theoretical assessments. She always pushes herself, classmates and her students to go a little deeper and as a result her students were more motivated and positively inspired by her dedication." 
+>
+> Soheyl, BATTI Instructor and Supervisor, San Francisco 
+
+
+
+> "I just wanted to take this opportunity to say how grateful I am for you being my daughter's teacher this school year. She is typically shy, reserved, and almost always takes a while for her to adjust to people. However, I am very pleased that she was able to adjust quickly having you. I have seen how great you are with the children, how well you interact with them, how engaging you are and how well the children's behavior changed week after week and now my daughter is more sociable, participates in class, and overall more attentive."
+>
+> Sharon, Parent
