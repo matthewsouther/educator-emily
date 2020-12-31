@@ -19,3 +19,15 @@ Since then I have continued to grow as an educator and have honed my “learn-by
 At the heart of my teaching philosophy is the belief that to build self-confident, happy, and excited-to-learn children, we must first meet each child where they are and allow them to explore their own ideas about how to approach a problem or learn a new concept. Children are born excited to learn and it is our most vital role as adults and educators to nurture that.
 
 I live in Portland, Oregon with my husband and two sons. You'll often find us exploring nature, being silly, having dance parties, and reveling in the joy of learning.
+
+
+
+> "Using her head, her heart, and humor, she knows how to naturally and authentically foster positive relationships with the students. This gives her the ability to be highly effective when helping them with difficult social, emotional, or academic challenges."
+>
+> Terra, Summer School Director, Menlo Park, CA
+
+
+
+> "I worked with Emily on a variety of projects. She calmly listens and takes in what others have to say. She has a kind sense of humor that puts all those around her at ease. Her writing skills and attention to detail are excellent." 
+>
+> Joel, 826 Valencia, San Francisco, CA
