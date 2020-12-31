@@ -20,14 +20,10 @@ At the heart of my teaching philosophy is the belief that to build self-confiden
 
 I live in Portland, Oregon with my husband and two sons. You'll often find us exploring nature, being silly, having dance parties, and reveling in the joy of learning.
 
-
-
-> "Using her head, her heart, and humor, she knows how to naturally and authentically foster positive relationships with the students. This gives her the ability to be highly effective when helping them with difficult social, emotional, or academic challenges."
+> *"Using her head, her heart, and humor, she knows how to naturally and authentically foster positive relationships with the students. This gives her the ability to be highly effective when helping them with difficult social, emotional, or academic challenges."*
 >
-> Terra, Summer School Director, Menlo Park, CA
-
-
-
-> "I worked with Emily on a variety of projects. She calmly listens and takes in what others have to say. She has a kind sense of humor that puts all those around her at ease. Her writing skills and attention to detail are excellent." 
+> **Terra, Summer School Director, Menlo Park, CA**
 >
-> Joel, 826 Valencia, San Francisco, CA
+> *"I worked with Emily on a variety of projects. She calmly listens and takes in what others have to say. She has a kind sense of humor that puts all those around her at ease. Her writing skills and attention to detail are excellent."* 
+>
+> **Joel, 826 Valencia, San Francisco, CA**
