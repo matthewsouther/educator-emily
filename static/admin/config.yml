@@ -119,10 +119,22 @@ collections:
                       ],
                   },
                 ],
+            }      
+      - file: "src/pages/coaching/index.md"
+        label: "Coaching"
+        name: "coaching"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
             }
-      - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/teaching/index.md"
+        label: "Teaching"
+        name: "teaching"
         fields:
           - {
               label: "Template Key",
@@ -144,9 +156,9 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/services/index.md"
-        label: "Services"
-        name: "services"
+      - file: "src/pages/about/index.md"
+        label: "About"
+        name: "about"
         fields:
           - {
               label: "Template Key",
