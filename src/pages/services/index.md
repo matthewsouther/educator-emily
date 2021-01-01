@@ -75,10 +75,8 @@ Full or half day sessions 1 or 2 times per week for your home-school group. I wi
 
 > *"Emily is a dedicated teacher with superb leadership qualities. She is detail-oriented with an eye to research-based theoretical assessments. She always pushes herself, classmates and her students to go a little deeper and as a result her students were more motivated and positively inspired by her dedication."* 
 >
-> **Soheyl, BATTI Instructor and Supervisor, San Francisco** 
-
-
-
+> **Soheyl, Instructor and Supervisor** 
+>
 > *"I just wanted to take this opportunity to say how grateful I am for you being my daughter's teacher this school year. She is typically shy, reserved, and almost always takes a while for her to adjust to people. However, I am very pleased that she was able to adjust quickly having you. I have seen how great you are with the children, how well you interact with them, how engaging you are and how well the children's behavior changed week after week and now my daughter is more sociable, participates in class, and overall more attentive."*
 >
 > **Sharon, Parent**
