@@ -2,7 +2,6 @@
 templateKey: index-page
 title: Your child's interests matter
 image: /img/rikitiki-bw-narrow.jpg
-heading: You can do this. I can help.
 subheading: Connect with them to help them soar.
 mainpitch:
   title: Let me help your child take off
@@ -11,6 +10,7 @@ mainpitch:
     motivation, and space to experiment. Now you can fuel that drive so she can
     follow her path to becoming a creative, problem-solving, secure, and happy
     grown-up. Isn't that what we all want for our children?
+heading: You can do this. I can help.
 description: "I am on your team. I am your secret weapon who knows the ins and
   outs of education. I am passionate about learning and even more passionate
   about setting children free to soar.  "
