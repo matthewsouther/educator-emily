@@ -14,38 +14,41 @@ mainpitch:
 description: "I am on your team. I am your secret weapon who knows the ins and
   outs of education. I am passionate about learning and even more passionate
   about setting children free to soar.  "
-intro:
-  blurbs:
-    - image: /img/light2.jpg
-      text: >
-        I believe in education through connection. We all think and learn
-        differently and your family is its own unique organism. That's why I
-        offer you a place to build your vision for your family and your child's
-        education. There are as many options as there are humans and I can help
-        you navigate the winding path and form a plan that is right for your
-        family. 
-    - image: /img/birds_nest.jpg
-      text: "Surfing the web for lessons and activities can be exhausting,
-        overwhelming, and a drain on your time. I can help. Let's chat about
-        what your child is interested in and I can create a unit designed for
-        your family. Open and go lessons, field trips, and resources. Done. "
-  heading: ggggg
-  description: |
-    ggggg
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+services:
+  - heading: Coaching
+    description: This is about coaching  
+    blurbs:
+      - image: /img/light2.jpg
+        text: >
+          I believe in education through connection. We all think and learn
+          differently and your family is its own unique organism. That's why I
+          offer you a place to build your vision for your family and your child's
+          education. There are as many options as there are humans and I can help
+          you navigate the winding path and form a plan that is right for your
+          family. 
+      - image: /img/birds_nest.jpg
+        text: "Surfing the web for lessons and activities can be exhausting,
+          overwhelming, and a drain on your time. I can help. Let's chat about
+          what your child is interested in and I can create a unit designed for
+          your family. Open and go lessons, field trips, and resources. Done. "
+    buttonLabel: See all coaching services
+    buttonTarget: /coaching
+  - heading: Teaching
+    description: This is about teaching  
+    blurbs:
+      - image: /img/light2.jpg
+        text: >
+          I believe in education through connection. We all think and learn
+          differently and your family is its own unique organism. That's why I
+          offer you a place to build your vision for your family and your child's
+          education. There are as many options as there are humans and I can help
+          you navigate the winding path and form a plan that is right for your
+          family. 
+      - image: /img/birds_nest.jpg
+        text: "Surfing the web for lessons and activities can be exhausting,
+          overwhelming, and a drain on your time. I can help. Let's chat about
+          what your child is interested in and I can create a unit designed for
+          your family. Open and go lessons, field trips, and resources. Done. "
+    buttonLabel: See all teaching services
+    buttonTarget: /teaching
 ---

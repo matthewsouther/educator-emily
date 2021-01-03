@@ -4,7 +4,8 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import Services from '../components/Services'
+// import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
   image,
@@ -14,6 +15,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  services,
 }) => (
   <div>
     <div
@@ -86,15 +88,8 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/services">
-                      See all services
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
+                <Services services={services} />
+                {/* <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
@@ -104,7 +99,7 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -121,9 +116,7 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+  services: PropTypes.array,
 }
 
 const IndexPage = ({ data }) => {
@@ -138,7 +131,7 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
-        intro={frontmatter.intro}
+        services={frontmatter.services}
       />
     </Layout>
   )
@@ -173,7 +166,7 @@ export const pageQuery = graphql`
           description
         }
         description
-        intro {
+        services {
           blurbs {
             image {
               childImageSharp {
@@ -186,6 +179,8 @@ export const pageQuery = graphql`
           }
           heading
           description
+          buttonLabel
+          buttonTarget
         }
       }
     }
