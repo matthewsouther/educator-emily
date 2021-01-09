@@ -16,11 +16,10 @@ description: "I am on your team. I am your secret weapon who knows the ins and
   about setting children free to soar.  "
 services:
   - heading: Homeschool Coaching
-    description: "Coaching sessions are designed to help you through the challenges
-      of homeschooling. Wherever you are on your homeschooling journey, I will
-      listen to what's been working and not working and any fears and ambitions
-      you have. Then I will coach you through creating a learning environment
-      that fosters self-direction, a love of learning, and family connection. "
+    description: "Wherever you are on your homeschooling journey, I will listen to
+      your experience. Then I will coach you through creating a learning
+      environment that fosters self-direction, a love of learning, and family
+      connection. "
     blurbs:
       - image: /img/light2.jpg
         text: >
