@@ -17,9 +17,8 @@ description: "I am on your team. I am your secret weapon who knows the ins and
 services:
   - heading: Homeschool Coaching
     description: "Wherever you are on your homeschooling journey, I will listen to
-      your experience. Then I will coach you through creating a learning
-      environment that fosters self-direction, a love of learning, and family
-      connection. "
+      your experience. Then we will create a learning environment that fosters
+      self-direction, a love of learning, and family connection. "
     blurbs:
       - image: /img/light2.jpg
         text: >
