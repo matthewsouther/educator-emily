@@ -37,7 +37,7 @@ All units are developed collaboratively and with your child’s specific skills 
 
 ![](/img/stem.jpg)
 
-![](/img/shadowpuppets.jpg)
+![]()
 
 ### Evaluation
 
