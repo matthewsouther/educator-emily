@@ -21,17 +21,17 @@ Coaching sessions are designed to help you through the challenges of homeschooli
 
 Potential packages include:
 
-  * **Weekly, Monthly, or Quarterly 30 min. calls** to touch-base and troubleshoot if needed.   
-  * **1-hour phone or video call** to discuss how things are going and what adjustments could be made. 
-  * **Three 1-hour coaching sessions.** Ideal for new homeschool families, and those looking to dig deeper into their plan with some intensive review.  
+* **Weekly, Monthly, or Quarterly 30 min. calls** to touch-base and troubleshoot if needed.   
+* **1-hour phone or video call** to discuss how things are going and what adjustments could be made. 
+* **Three 1-hour coaching sessions.** Ideal for new homeschool families, and those looking to dig deeper into their plan with some intensive review.  
 
 ### Curriculum Development
 
 Has your child expressed interest in a topic, but you just don’t know where to go with it? Not sure how to teach reading... or maybe even scarier, math? I will work with you to develop a fully-fleshed out unit including:
 
-  * Scope and sequence for the unit
-  * Step-by-step lesson plans for you to use at home
-  * Resource guide
+* Scope and sequence for the unit
+* Step-by-step lesson plans for you to use at home
+* Resource guide
 
 All units are developed collaboratively and with your child’s specific skills and interests in mind. We can remain in contact while you move through the unit so lessons can be reworked and updated as you go along.
 
@@ -48,3 +48,5 @@ After an initial conversation with you, I will meet with your child to engage in
 ### Homeschool Classroom Design
 
 Just getting into homeschooling or have a homeschool setup that isn’t working? Are you overwhelmed by the mountains of materials that are building up? I will come to your home and design a homeschool learning space that promotes learning, independence, and excitement.
+
+![](/img/supplies.jpg)
