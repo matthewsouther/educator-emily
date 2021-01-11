@@ -3,6 +3,8 @@ templateKey: teaching-page
 path: /teaching
 title: Teaching Services
 ---
+***Covid Notice: All in-person teaching suspended until further notice. I am still offering virtual classes and tutoring.***
+
 *Specializing in ages 4-10*
 
 *All services target the unique needs of your child. I listen carefully to your wants and needs as a parent, observe your child’s skills and passions, and integrate my experience and knowledge as a trained education professional to build a rich and dynamic learning experience for your child.*
