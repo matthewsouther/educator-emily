@@ -53,6 +53,18 @@ const Navbar = class extends React.Component {
             >
               {/* <img src={logo} alt="Kaldi" style={{ width: '88px' }} /> */}
               Educator Emily
+              <div style={{
+                position: "absolute",
+                top: "52px",
+                width: "220px",
+                color: "black",
+                fontSize: "14px",
+                fontStyle: "italic",
+                fontWeight: "normal",
+                backgroundColor: "white",
+                opacity: "0.7",
+                padding: "5px 10px"
+              }}>homeschool coach and teacher</div>
             </Link>
             {/* Hamburger menu */}
             <div
