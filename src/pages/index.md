@@ -2,9 +2,9 @@
 templateKey: index-page
 title: Your child's interests matter
 image: /img/rikitiki-bw-narrow.jpg
-subheading: Connect with them to help them soar.
+subheading: Connect with them to help them grow.
 mainpitch:
-  title: Let me help your child take off
+  title: Let me help your child blossom
   description: Your child was born a scientist, explorer, and problem solver.  She
     learned to crawl, walk, and talk all through self-direction, internal
     motivation, and space to experiment. Now you can fuel that drive so she can
@@ -25,9 +25,7 @@ services:
           I believe in education through connection. We all think and learn
           differently and your family is its own unique organism. That's why I
           offer you a place to build your vision for your family and your
-          child's education. There are as many options as there are humans and I
-          can help you navigate the winding path and form a plan that is right
-          for your family. 
+          child's education. 
       - image: /img/birds_nest.jpg
         text: "Surfing the web for lessons and activities can be exhausting,
           overwhelming, and a drain on your time. I can help. Let's chat about
