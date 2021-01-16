@@ -26,7 +26,7 @@ services:
           differently and your family is its own unique organism. That's why I
           offer you a place to build your vision for your family and your
           child's education. 
-      - image: /img/birds_nest.jpg
+      - image: /img/birdsnest.jpg
         text: "Surfing the web for lessons and activities can be exhausting,
           overwhelming, and a drain on your time. I can help. Let's chat about
           what your child is interested in and I can create a unit designed for
