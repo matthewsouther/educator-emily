@@ -9,13 +9,13 @@ title: Teaching Services
 
 *All services target the unique needs of your child. I listen carefully to your wants and needs as a parent, observe your child’s skills and passions, and integrate my experience and knowledge as a trained education professional to build a rich and dynamic learning experience for your child.*
 
-![](/img/balancingact.jpg)
+![](/img/bubble-narrow.jpg)
 
 # **Teaching Services**
 
 Located in Portland, Oregon.
 
-Let me round out your homeschool curriculum with **in-person teaching** to provide enrichment or tackle a specific academic topic.
+Let me round out your homeschool curriculum with **in-person or virtual teaching** to provide enrichment or tackle a specific academic topic.
 
 ### In-home Classes or Tutoring
 
