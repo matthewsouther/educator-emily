@@ -47,7 +47,7 @@ services:
           and team-building/STEM challenges. The sky is the limit here and I
           look forward to developing a class specific to your child's interests
           and needs. "
-      - image: /img/calendar2.jpg
+      - image: /img/calendar2-1-.jpg
         text: "I offer full or half day microschool classes where your homeschool group
           can build community and social skills through morning meeting,
           literacy and math work, science, art, and lots more. "
