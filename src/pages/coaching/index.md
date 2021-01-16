@@ -49,4 +49,4 @@ After an initial conversation with you, I will meet with your child to engage in
 
 Just getting into homeschooling or have a homeschool setup that isn’t working? Are you overwhelmed by the mountains of materials that are building up? I will come to your home and design a homeschool learning space that promotes learning, independence, and excitement.
 
-![](/img/supplies.jpg)
+![](/img/workspace.jpg)
