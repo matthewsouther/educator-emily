@@ -17,6 +17,12 @@ Located in Portland, Oregon.
 
 Let me round out your homeschool curriculum with **in-person or virtual teaching** to provide enrichment or tackle a specific academic topic.
 
+### Outschool Classes
+
+I teach a variety of classes on Outschool. You can check out my listings and sign up for any of them here: <https://outschool.com/teachers/Emily-Souther>
+
+Get a 20% discount on your first class when you mention Educator Emily in a message to me. 
+
 ### In-home Classes or Tutoring
 
 Weekly lessons to target a specific academic need or enrich your child's learning experience. For one child or a small group of children.
