@@ -3,8 +3,6 @@ templateKey: teaching-page
 path: /teaching
 title: Teaching Services
 ---
-***Covid Notice: All in-person teaching suspended until further notice. I am still offering virtual classes and tutoring.***
-
 *Specializing in ages 4-10*
 
 *All services target the unique needs of your child. I listen carefully to your wants and needs as a parent, observe your child’s skills and passions, and integrate my experience and knowledge as a trained education professional to build a rich and dynamic learning experience for your child.*
@@ -16,6 +14,10 @@ title: Teaching Services
 Located in Portland, Oregon.
 
 Let me round out your homeschool curriculum with **in-person or virtual teaching** to provide enrichment or tackle a specific academic topic.
+
+### New Client Consultation
+
+Schedule a **free 20 min. phone or video consultation** so we can talk through what you've been doing at home, what you're looking for, and what I can offer. I will answer any questions you have about my teaching services and we can figure out next steps together. 
 
 ### Outschool Classes
 
@@ -43,7 +45,7 @@ Full or half day sessions 1 or 2 times per week for your home-school group. I wi
 
 *My rates are based on an hourly fee, which may vary according to the project scope. After an initial consultation I will provide you with an accurate estimate.* 
 
-*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\**
 
 > *"Emily is a dedicated teacher with superb leadership qualities. She is detail-oriented with an eye to research-based theoretical assessments. She always pushes herself, classmates and her students to go a little deeper and as a result her students were more motivated and positively inspired by her dedication."* 
 >
