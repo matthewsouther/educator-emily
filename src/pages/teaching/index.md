@@ -41,6 +41,10 @@ Full or half day sessions 1 or 2 times per week for your home-school group. I wi
 
 ![](/img/moon.jpg)
 
+*My rates are based on an hourly fee, which may vary according to the project scope. After an initial consultation I will provide you with an accurate estimate.* 
+
+*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+
 > *"Emily is a dedicated teacher with superb leadership qualities. She is detail-oriented with an eye to research-based theoretical assessments. She always pushes herself, classmates and her students to go a little deeper and as a result her students were more motivated and positively inspired by her dedication."* 
 >
 > **Soheyl, Instructor and Supervisor** 
