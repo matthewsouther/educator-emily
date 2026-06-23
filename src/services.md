@@ -1,10 +1,10 @@
 ---
-title: Programs
+title: Services
 layout: base
 eleventyExcludeFromCollections: false
 tags: topnav
 eleventyNavigation:
-  key: Programs
-  order: 3
+  key: Services
+  order: 2
 permalink: false
 ---

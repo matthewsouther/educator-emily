@@ -1,15 +1,15 @@
 backend:
   name: git-gateway
-  repo: matthewsouther/osoberry
+  repo: matthewsouther/educator-emily
   branch: main
   api_root: https://api.github.com
   base_url: https://api.netlify.com
 publish_mode: simple
 media_folder: src/assets/uploads
 public_folder: /assets/uploads
-site_url: https://osoberry.school
-display_url: https://osoberry.school
-logo_url: https://osoberry.school/assets/img/osoberry_logo_400.png
+site_url: https://educatoremily.com
+display_url: https://educatoremily.com
+logo_url: https://osoberry.school/assets/img/favicon.svg
 collections:
   - name: pages
     label: Pages

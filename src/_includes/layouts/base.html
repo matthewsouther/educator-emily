@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content="{{ eleventy.generator }}" />
-    <title>Osoberry School: {{ title }}</title>
+    <title>Educator Emily: {{ title }}</title>
     <meta name="description" content="{{ description }}" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -58,7 +58,7 @@
       <div class="contentWrapper">
         <div class="inner">
           <h1 class="home">
-            <a href="/"><img src="/assets/img/osoberry_logo_400.png" /></a>
+            <a href="/"> Educator Emily </a>
           </h1>
           <button class="menu-icon">
             <label for="expandMenu">
@@ -97,31 +97,19 @@
       </div>
     </header>
 
+    {% if hasFullWidthImage %}
+    <div class="fullWidthImage">
+      <div class="innerWrapper">
+        <h1>Your child's interests matter</h1>
+        <h2>Connect with them to help them grow.</h2>
+      </div>
+    </div>
+    {% endif %}
+
     <main>{{ content }}</main>
-    {% include "components/infoSession.html" %}
 
     <footer>
-      <p>
-        Osoberry School, an Oregon nonprofit corporation<br />
-        4433 E Burnside St • Portland, OR • (503) 433-2923
-      </p>
-      <p>
-        <a href="https://www.facebook.com/osoberryschool" target="_blank"
-          ><img class="socialIcon" src="/assets/img/facebook.svg"
-        /></a>
-      </p>
-      <p>
-        <em
-          >Osoberry School admits students of any sexual orientation, race,
-          color, national and ethnic origin, to all the rights, privileges,
-          programs and activities generally accorded or made available to
-          students at the school. It does not discriminate on the basis of race,
-          color, or national and ethnic origin in the administration of its
-          educational policies, admissions policies, financial aid programs, and
-          other school-administered programs.</em
-        >
-      </p>
-      <p>&copy; 2024 Osoberry School; logo &copy; 2024 Otto Souther</p>
+      <p>&copy; 2021-2026 Emily Souther</p>
     </footer>
     <!-- Redirect to CMS admin on login -->
     <script>

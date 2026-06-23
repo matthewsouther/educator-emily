@@ -2,21 +2,44 @@
 title: Home
 layout: base
 tags: topnav
+hasFullWidthImage: true
 ---
-# \*\*Two spaces available for 5-7 year olds!\*\*
 
-### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
+# Let me help your child blossom
 
-## *Connection, Wellbeing, Authentic Learning*
+## Your child was born a scientist, explorer, and problem solver. She learned to crawl, walk, and talk all through self-direction, internal motivation, and space to experiment. Now you can fuel that drive so she can follow her path to becoming a creative, problem-solving, secure, and happy grown-up. Isn't that what we all want for our children?
 
-At Osoberry School we teach and lead with emotional wellbeing in mind. While modern life seems to always be running too quickly, Osoberry School provides a space to slow down and focus on life’s meaningful connections. Utilizing discoveries in mindfulness, the science of happiness, child development, and the Finnish education model, our day provides kids, teachers and families with a space to experience a balanced, meaningful life.
+# You can do this. I can help.
 
-![](/assets/uploads/untitled-design-28-.png)
+I am on your team. I am your secret weapon who knows the ins and outs of education. I am passionate about learning and even more passionate about setting children free to soar.
 
-> *"We highly recommend Emily and the Osoberry School. For the first time, our son is excited to go to school. He tells us that learning at Osoberry is "fun and not boring." Emily connected with our child right away and her curriculum and teaching style is exactly what we want for our child."*
->
-> ***\-Parent of a 7 year old Osoberry student***
+{% column_layout %}
 
-## Inquire now!
+{% column %}
 
-{% include "components/contactForm.html" %}
+## Tutoring
+
+Content here
+
+{% button "Learn more about tutoring" "/tutoring" %}
+{% endcolumn %}
+
+{% column %}
+
+## Homeschool
+
+Content here
+
+{% button "Learn more about homeschool" "/homeschool" %}
+{% endcolumn %}
+
+{% column %}
+
+## Coaching
+
+Content here
+
+{% button "Learn more about coaching" "/coaching" %}
+{% endcolumn %}
+
+{% endcolumn_layout %}

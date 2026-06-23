@@ -1,14 +1,14 @@
 ---
-title: Tutoring
+title: Homeschool
 layout: base
 eleventyExcludeFromCollections: false
 tags: topnav
 eleventyNavigation:
   parent: Services
-  key: Tutoring
-  order: 1
+  key: Homeschool
+  order: 2
 ---
 
-# Tutoring
+# Homeschool
 
 Under construction

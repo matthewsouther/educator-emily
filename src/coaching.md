@@ -1,14 +1,14 @@
 ---
-title: FAQ
+title: Coaching
 layout: base
 eleventyExcludeFromCollections: false
 tags: topnav
 eleventyNavigation:
-  parent: About
-  key: FAQ
-  order: 6
+  parent: Services
+  key: Coaching
+  order: 3
 ---
 
-# Frequently Asked Questions
+# Coaching
 
-Coming soon!
+Under construction
