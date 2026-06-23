@@ -1,0 +1,127 @@
+<!doctype html>
+<!-- HTML file pre-processed by 11ty with Liquid -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content="{{ eleventy.generator }}" />
+    <title>Educator Emily: {{ title }}</title>
+    <meta name="description" content="{{ description }}" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/theme.css" />
+    <!-- Favicons -->
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/img/favicon-96x96.png"
+      sizes="96x96"
+    />
+    <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/assets/img/apple-touch-icon.png"
+    />
+    <meta name="apple-mobile-web-app-title" content="Educator Emily" />
+    <link rel="manifest" href="/assets/img/site.webmanifest" />
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-VP2Z2XDTWF"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-VP2Z2XDTWF");
+    // When a nav section is expanded, collapse all other nav sections
+    const onNavSectionExpand = (event) => {
+      const ul = event.target.parentElement.parentElement;
+      ul.querySelectorAll("input").forEach((element) => {
+        if (element !== event.target) element.checked = false;
+      });
+    };
+  </script>
+  <body>
+    <header>
+      <div class="contentWrapper">
+        <div class="inner">
+          <h1 class="home">
+            <a href="/"> Educator Emily </a>
+          </h1>
+          <button class="menu-icon">
+            <label for="expandMenu">
+              <img class="menu" src="/assets/img/menu.svg" />
+              <img class="close" src="/assets/img/close.svg" />
+            </label>
+            <input type="checkbox" id="expandMenu" />
+          </button>
+        </div>
+        <nav>
+          {% assign navPages = collections.topnav | eleventyNavigation %}
+          <ul>
+            {%- for level1 in navPages %}
+            <li>
+              {% if level1.url %}
+              <a href="{{ level1.url }}">{{ level1.title }}</a>
+              {% else %}
+              <label for="{{ level1.title }}-checkbox">
+                {{ level1.title }}
+              </label>
+              <input
+                type="checkbox"
+                id="{{ level1.title }}-checkbox"
+                onchange="onNavSectionExpand(event)"
+              />
+              <div class="subnav">
+                {%- for level2 in level1.children %}
+                <a href="{{ level2.url }}">{{ level2.title }}</a>
+                {%- endfor %}
+              </div>
+              {% endif %}
+            </li>
+            {%- endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    {% if hasFullWidthImage %}
+    <div class="fullWidthImage">
+      <div class="innerWrapper">
+        <h1>Your child's interests matter</h1>
+        <h2>Connect with them to help them grow.</h2>
+      </div>
+    </div>
+    {% endif %}
+
+    <main>{{ content }}</main>
+
+    <footer>
+      <p>&copy; 2021-2026 Emily Souther</p>
+    </footer>
+    <!-- Redirect to CMS admin on login -->
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
