@@ -18,11 +18,11 @@ Focused, one-on-one support in a specific academic area — reading, math, writi
 
 ### **Reading**
 
-Multisensory, Orton Gillingham informed instruction that focuses on a deep understanding of the written word. I utilize a mix of sit down and movement work to help integrate the process of reading. 
+Multisensory, Orton Gillingham informed instruction that focuses on a deep understanding of the written word. I utilize a mix of structured literacy and movement to help integrate the process of reading. 
 
 ### **Writing** 
 
-Authentic writing experiences that focus on the joy of storytelling. Kids work through the full writing process from planning to publishing, work on spelling, grammar, and voice, and walk away with projects they can be proud of. 
+Authentic writing experiences that focus on the joy of storytelling. Kids work through the full writing process from planning to publishing, focusing on voice, storytelling elements, spelling, and grammar. Kids walk away with projects they can be proud of. 
 
 ### **Math** 
 
