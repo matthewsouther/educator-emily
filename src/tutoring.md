@@ -14,21 +14,7 @@ eleventyNavigation:
 
 Focused, one-on-one support in a specific academic area — reading, math, writing, or another subject. Ideal for families who want targeted skill-building alongside their existing school program.
 
-**Academic Development**
-
-Multi-Sensory Reading Instruction
-
-Conceptual Math Support
-
-Executive Functioning Skills
-
-**Social-Emotional Development**
-
-Regulation & Confidence
-
-Growth Mindset Development
-
-Positive Academic Identity
+![](/assets/uploads/readingmath_photobanner.png)
 
 **Reading**
 
@@ -50,7 +36,3 @@ Hands-on math learning that focuses on building problem solving, flexibility wit
 * Focus on one primary academic area 
 
 **Best for:** Families who have a strong school program in place and want supplemental support in one specific area.
-
-
-
-![]()
