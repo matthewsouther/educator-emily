@@ -16,19 +16,19 @@ Focused, one-on-one support in a specific academic area — reading, math, writi
 
 ![](/assets/uploads/readingmath_photobanner.png)
 
-**Reading**
+### **Reading**
 
 Multisensory, Orton Gillingham informed instruction that focuses on a deep understanding of the written word. I utilize a mix of sit down and movement work to help integrate the process of reading. 
 
-**Writing** 
+### **Writing** 
 
 Authentic writing experiences that focus on the joy of storytelling. Kids work through the full writing process from planning to publishing, work on spelling, grammar, and voice, and walk away with projects they can be proud of. 
 
-**Math** 
+### **Math** 
 
 Hands-on math learning that focuses on building problem solving, flexibility with numbers, and creativity. I utilize games and authentic uses for math thinking to build a joyful practice. 
 
-**What's Included with Tutoring**
+### **What's Included with Tutoring**
 
 * 50-minute 1:1 sessions, two or more times per week
 * Session planning and preparation
