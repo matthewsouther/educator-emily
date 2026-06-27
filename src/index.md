@@ -18,6 +18,8 @@ hasFullWidthImage: true
 
 ## Tutoring
 
+![](/assets/uploads/dice.jpg)
+
 Focused, one-on-one support in a specific academic area — reading, math, writing, or another subject. Ideal for families who want targeted skill-building.
 
 {% button "Learn more about tutoring" "/tutoring" %}
@@ -27,6 +29,8 @@ Focused, one-on-one support in a specific academic area — reading, math, writi
 
 ## Homeschool
 
+![](/assets/uploads/untitled-design-33-.png)
+
 A comprehensive academic program designed for the full school year. I take on the planning, sequencing, and delivery of a robust multi-subject curriculum.
 
 {% button "Learn more about homeschool" "/homeschool" %}
@@ -35,6 +39,8 @@ A comprehensive academic program designed for the full school year. I take on th
 {% column %}
 
 ## Coaching
+
+![](/assets/uploads/light2.jpeg)
 
 Content here
 
