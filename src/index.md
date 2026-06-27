@@ -18,7 +18,7 @@ hasFullWidthImage: true
 
 ![](/assets/uploads/in-home-tutoring-1-.png)
 
-Focused, one-on-one support in a specific academic area — reading, math, writing, or another subject. Ideal for families who want targeted skill-building.
+Focused, one-on-one support in a specific academic area. Ideal for families who want targeted skill-building.
 
 {% button "Learn more about tutoring" "/tutoring" %}
 {% endcolumn %}
