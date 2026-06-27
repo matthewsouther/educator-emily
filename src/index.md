@@ -4,14 +4,13 @@ layout: base
 tags: topnav
 hasFullWidthImage: true
 ---
-
 # Let me help your child blossom
 
-## Your child was born a scientist, explorer, and problem solver. She learned to crawl, walk, and talk all through self-direction, internal motivation, and space to experiment. Now you can fuel that drive so she can follow her path to becoming a creative, problem-solving, secure, and happy grown-up. Isn't that what we all want for our children?
+## **I believe** 
 
-# You can do this. I can help.
+### **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
 
-I am on your team. I am your secret weapon who knows the ins and outs of education. I am passionate about learning and even more passionate about setting children free to soar.
+### Through a balance of **connection** and **structure**, I help children gain **confidence**, **motivation**, and **ownership** over their learning journey.
 
 {% column_layout %}
 
@@ -19,7 +18,7 @@ I am on your team. I am your secret weapon who knows the ins and outs of educati
 
 ## Tutoring
 
-Content here
+Focused, one-on-one support in a specific academic area — reading, math, writing, or another subject. Ideal for families who want targeted skill-building.
 
 {% button "Learn more about tutoring" "/tutoring" %}
 {% endcolumn %}
@@ -28,7 +27,7 @@ Content here
 
 ## Homeschool
 
-Content here
+A comprehensive academic program designed for the full school year. I take on the planning, sequencing, and delivery of a robust multi-subject curriculum.
 
 {% button "Learn more about homeschool" "/homeschool" %}
 {% endcolumn %}
