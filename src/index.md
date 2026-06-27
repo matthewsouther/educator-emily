@@ -18,7 +18,7 @@ hasFullWidthImage: true
 
 ## Tutoring
 
-![](/assets/uploads/dice.jpg)
+![](/assets/uploads/in-home-tutoring-1-.png)
 
 Focused, one-on-one support in a specific academic area — reading, math, writing, or another subject. Ideal for families who want targeted skill-building.
 
