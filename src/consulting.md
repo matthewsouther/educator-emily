@@ -1,14 +1,14 @@
 ---
-title: Coaching
+title: Consulting
 layout: base
 eleventyExcludeFromCollections: false
 tags: topnav
 eleventyNavigation:
   parent: Services
-  key: Coaching
+  key: Consulting
   order: 3
 ---
 
-# Coaching
+# Consulting
 
 Under construction

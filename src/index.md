@@ -4,7 +4,6 @@ layout: base
 tags: topnav
 hasFullWidthImage: true
 ---
-# Let me help your child blossom
 
 ## **I believe**
 
@@ -38,7 +37,7 @@ A comprehensive academic program designed for the full school year. I take on th
 
 Content here
 
-{% button "Learn more about coaching" "/coaching" %}
+{% button "Learn more about consulting" "/consulting" %}
 {% endcolumn %}
 
 {% endcolumn_layout %}
