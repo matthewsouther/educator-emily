@@ -7,18 +7,22 @@ hasFullWidthImage: true
 {% column_layout %}
 {% column %}
 
+![](/assets/uploads/copy-of-homeschool-support.png)
+
+{% endcolumn %}
+
+{% column %}
+
+
 # **I believe**
 
 **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
 
 Through a balance of **connection** and **structure**, I help children gain **confidence**, **motivation**, and **ownership** over their learning journey.
-
-{% endcolumn %}
-
-{% column %}
-Whether your child needs focused reading support or a full academic program, I bring the same thing: deep, meaningful work tailored to who they are — with the structure to actually get somewhere.
 {% endcolumn %}
 {% endcolumn_layout %}
+
+Whether your child needs focused reading support or a full academic program, I bring the same thing: deep, meaningful work tailored to who they are — with the structure to actually get somewhere.
 
 {% column_layout %}
 
