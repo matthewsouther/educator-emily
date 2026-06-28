@@ -4,7 +4,6 @@ layout: base
 tags: topnav
 hasFullWidthImage: true
 ---
-
 ## **I believe**
 
 ### **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
@@ -15,7 +14,7 @@ hasFullWidthImage: true
 
 {% column %}
 
-![](/assets/uploads/in-home-tutoring-1-.png)
+[![](/assets/uploads/in-home-tutoring-1-.png)](/tutoring)
 
 Focused, 1:1 support in a specific academic area. Ideal for families who want targeted skill-building.
 
@@ -24,7 +23,7 @@ Focused, 1:1 support in a specific academic area. Ideal for families who want ta
 
 {% column %}
 
-![](/assets/uploads/homeschool-support.png)
+[![](/assets/uploads/homeschool-support.png)](/homeschool)
 
 A comprehensive academic program designed for the full school year. I take on the planning, sequencing, and delivery of a robust multi-subject curriculum.
 
@@ -33,7 +32,7 @@ A comprehensive academic program designed for the full school year. I take on th
 
 {% column %}
 
-![](/assets/uploads/consulting.png)
+[![](/assets/uploads/consulting.png)](/consulting)
 
 Content here
 
