@@ -6,7 +6,7 @@ hasFullWidthImage: true
 ---
 # Let me help your child blossom
 
-## **I believe** 
+## **I believe**
 
 ### **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
 
@@ -18,7 +18,7 @@ hasFullWidthImage: true
 
 ![](/assets/uploads/in-home-tutoring-1-.png)
 
-Focused, one-on-one support in a specific academic area. Ideal for families who want targeted skill-building.
+Focused, 1:1 support in a specific academic area. Ideal for families who want targeted skill-building.
 
 {% button "Learn more about tutoring" "/tutoring" %}
 {% endcolumn %}
