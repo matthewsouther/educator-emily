@@ -41,3 +41,5 @@ Content here
 {% endcolumn %}
 
 {% endcolumn_layout %}
+
+{% include "components/contactForm.html" %}
