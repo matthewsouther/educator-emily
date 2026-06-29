@@ -32,7 +32,6 @@ Whether your child needs focused reading support or a full academic program, I b
 
 Focused, 1:1 support in a specific academic area. Ideal for families who want targeted skill-building.
 
-{% button "Learn more about tutoring" "/tutoring" %}
 {% endcolumn %}
 
 {% column %}
@@ -41,7 +40,6 @@ Focused, 1:1 support in a specific academic area. Ideal for families who want ta
 
 A comprehensive academic program designed for the full school year. I take on the planning, sequencing, and delivery of a robust multi-subject curriculum.
 
-{% button "Learn more about homeschool" "/homeschool" %}
 {% endcolumn %}
 
 {% column %}
@@ -50,7 +48,6 @@ A comprehensive academic program designed for the full school year. I take on th
 
 Content here
 
-{% button "Learn more about coaching" "/coaching" %}
 {% endcolumn %}
 
 {% endcolumn_layout %}
