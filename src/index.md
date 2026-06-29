@@ -15,9 +15,9 @@ hasFullWidthImage: true
 
 # **I believe**
 
-### **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
+## **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
 
-### Through a balance of **connection** and **structure**, I help children gain **confidence**, **motivation**, and **ownership** over their learning journey.
+## Through a balance of **connection** and **structure**, I help children gain **confidence**, **motivation**, and **ownership** over their learning journey.
 
 {% endcolumn %}
 {% endcolumn_layout %}
@@ -28,7 +28,7 @@ Whether your child needs focused reading support or a full academic program, I b
 
 {% column %}
 
-![](/assets/uploads/in-home-tutoring-1-.png)
+[![](/assets/uploads/in-home-tutoring-1-.png)](/tutoring)
 
 Focused, 1:1 support in a specific academic area. Ideal for families who want targeted skill-building.
 
@@ -46,7 +46,7 @@ A comprehensive academic program designed for the full school year. I take on th
 
 {% column %}
 
-![](/assets/uploads/consulting.png)
+[![](/assets/uploads/consulting.png)](/consulting)
 
 Content here
 
