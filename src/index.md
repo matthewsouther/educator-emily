@@ -36,7 +36,7 @@ Focused, 1:1 support in a specific academic area. Ideal for families who want ta
 
 {% column %}
 
-[![](/assets/uploads/homeschool-support.png)(/homeschoolsupport)]
+[![](/assets/uploads/homeschool-support.png)](/homeschool)
 
 A comprehensive academic program designed for the full school year. I take on the planning, sequencing, and delivery of a robust multi-subject curriculum.
 
