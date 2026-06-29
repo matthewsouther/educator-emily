@@ -15,9 +15,10 @@ hasFullWidthImage: true
 
 # **I believe**
 
-## **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
+### **meaningful learning** happens when children feel **safe, capable,** and **empowered**.
 
-## Through a balance of **connection** and **structure**, I help children gain **confidence**, **motivation**, and **ownership** over their learning journey.
+### Through a balance of **connection** and **structure**, I help children gain **confidence**, **motivation**, and **ownership** over their learning journey.
+
 {% endcolumn %}
 {% endcolumn_layout %}
 
