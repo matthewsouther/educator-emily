@@ -38,7 +38,7 @@ Focused, 1:1 support in a specific academic area. Ideal for families who want ta
 
 [![](/assets/uploads/homeschool-support-1-.png)](/homeschool)
 
-A comprehensive academic program designed for the full school year. I take on the planning, sequencing, and delivery of a robust multi-subject curriculum.
+A comprehensive academic program designed for the full school year, including planning, sequencing, and delivery of a robust multi-subject curriculum.
 
 {% endcolumn %}
 
@@ -46,7 +46,7 @@ A comprehensive academic program designed for the full school year. I take on th
 
 [![](/assets/uploads/consulting-1-.png)](/consulting)
 
-Content here
+Curriculum design, program development, and professional support for nonprofits and educators. 
 
 {% endcolumn %}
 
