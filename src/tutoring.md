@@ -28,6 +28,10 @@ Authentic writing experiences that focus on the joy of storytelling. Kids work t
 
 Hands-on math learning that focuses on building problem solving, flexibility with numbers, and creativity. I utilize games and authentic uses for math thinking to build a joyful practice. 
 
+### Science
+
+Covering a wide variety of topics including electricity, animal habitats and adaptations, solar cycles, engineering, physics, and chemical changes, I utilize exciting, hands-on work for a deep understanding of the science that rules our world and beyond. 
+
 ### **What's Included with Tutoring**
 
 * 50-minute 1:1 sessions, two or more times per week
