@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ## Building Confidence, Skills, and Independence
 
-Focused, one-on-one support in a specific academic area — reading, math, writing, or another subject. Ideal for families who want targeted skill-building.
+Focused, one-on-one support in a specific academic area: reading, math, writing, or another subject. Ideal for families who want targeted skill-building.
 
 ![](/assets/uploads/readingmath_photobanner.png)
 
