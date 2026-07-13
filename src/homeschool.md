@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # Homeschool Support
 
-## Partnership with an Expert Educator 
+## Partnership with an Expert Educator
 
 A comprehensive academic program designed for the full school year. I take on the planning, sequencing, and delivery of a robust multi-subject curriculum — two sessions per week, two hours each. Think of it as a private academic director for your child.
 
@@ -59,3 +59,7 @@ After an initial conversation with you, I will meet with your child to engage in
 * Written report with recommendations and resources
 
 **Best for:** Families wanting a clear understanding of where their child is academically and ways to move forward.
+
+
+
+{% include "components/contactForm.html" %}
