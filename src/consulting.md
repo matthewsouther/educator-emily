@@ -24,3 +24,5 @@ My consulting work is intentionally small — I take on a limited number of proj
 ### Have something in mind?
 
 Tell me a little about what you're working on and I'll let you know whether I can help. I'm always happy to have a conversation — even if it leads somewhere unexpected.
+
+{% include "components/contactForm.html" %}
