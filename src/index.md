@@ -52,4 +52,6 @@ Curriculum design, program development, and professional support for nonprofits 
 
 {% endcolumn_layout %}
 
+## Serving kids ages 6-12 in NE Portland
+
 {% include "components/contactForm.html" %}
