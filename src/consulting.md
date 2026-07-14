@@ -14,6 +14,8 @@ eleventyNavigation:
 
 In addition to my work with children, I occasionally take on consulting engagements, bringing 16+ years of curriculum design and program development experience to the educators and organizations who need it.
 
+![](/assets/uploads/copy-of-untitled-design-1-.png)
+
 My consulting work is intentionally small. I take on a limited number of projects each year alongside my direct work with children. If something below resonates, reach out and we'll figure out if it's a good fit.
 
 * **Curriculum design** — developing units, scope and sequence, or interdisciplinary frameworks for schools, co-ops, or education nonprofits.
