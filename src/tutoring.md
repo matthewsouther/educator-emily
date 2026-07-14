@@ -41,4 +41,6 @@ Covering a wide variety of topics including electricity, animal habitats and ada
 
 **Best for:** Families who have a strong school program in place and want supplemental support in one specific area.
 
+## Serving kids ages 6-12 in NE Portland
+
 {% include "components/contactForm.html" %}
