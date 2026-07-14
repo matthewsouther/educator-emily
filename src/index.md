@@ -4,6 +4,7 @@ layout: base
 tags: topnav
 hasFullWidthImage: true
 ---
+
 {% column_layout %}
 {% column %}
 
@@ -46,12 +47,10 @@ A comprehensive academic program designed for the full school year, including pl
 
 [![](/assets/uploads/consulting-1-.png)](/consulting)
 
-Curriculum design, program development, and professional support for nonprofits and educators. 
+Curriculum design, program development, and professional support for nonprofits and educators.
 
 {% endcolumn %}
 
 {% endcolumn_layout %}
 
-## Serving kids ages 6-12 in NE Portland
-
-{% include "components/contactForm.html" %}
+{% button "Contact Me" "/contact" %}
