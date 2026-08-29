@@ -45,6 +45,19 @@
     font-weight: bold;
     font-family: inherit;
   }
+  form .radioGroup p:has(+ input:required):after {
+    content: " *";
+    color: red;
+  }
+  form .radioGroup input {
+    width: auto;
+    transform: scale(1.5);
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  form .radioGroup label {
+    display: inline;
+  }
 </style>
 <script>
   const handleSubmit = async (event) => {
@@ -74,6 +87,33 @@
     <p>
       <label for="email">Email</label>
       <input id="email" type="email" name="email" required />
+    </p>
+    <p>
+      I offer in-home services to families in Northeast Portland. Families
+      outside my service area will need to meet virtually or at the library.
+    </p>
+    <d class="radioGroup">
+      <p>Do you live in NE Portland?</p>
+      <input
+        type="radio"
+        id="Yes"
+        name="doYouLiveInNePortland"
+        value="Yes"
+        required
+      />
+      <label for="Yes">Yes</label><br />
+      <input
+        type="radio"
+        id="No"
+        name="doYouLiveInNePortland"
+        value="No"
+        required
+      />
+      <label for="No">No</label><br />
+    </d>
+    <p>
+      <label for="ifNotPleaseExplain">If not, please explain:</label>
+      <textarea id="ifNotPleaseExplain" name="ifNotPleaseExplain"></textarea>
     </p>
     <p>
       <label for="message">Message</label>
