@@ -4,7 +4,6 @@ layout: base
 tags: topnav
 hasFullWidthImage: true
 ---
-
 {% column_layout %}
 {% column %}
 
@@ -23,7 +22,7 @@ hasFullWidthImage: true
 {% endcolumn %}
 {% endcolumn_layout %}
 
-Whether your child needs focused reading support or a full academic program, I bring the same thing: deep, meaningful work tailored to who they are — with the structure to actually get somewhere.
+Whether your child needs focused reading support or a full academic program, I bring the same thing: deep, meaningful work tailored to who they are with the structure to actually get somewhere.
 
 {% column_layout %}
 
