@@ -8,7 +8,6 @@ eleventyNavigation:
   key: Tutoring
   order: 1
 ---
-
 # 1:1 Academic Tutoring
 
 ## Building Confidence, Skills, and Independence
@@ -35,10 +34,10 @@ Covering a wide variety of topics including electricity, animal habitats and ada
 
 ### **What's Included with Tutoring**
 
-- 50-minute 1:1 sessions, two or more times per week
-- Session planning and preparation
-- Progress reports every four weeks
-- Focus on one primary academic area 
+* 50-minute 1:1 sessions, two or more times per week
+* Daily session notes with skills practiced and wins from the day
+* Progress reports every four weeks
+* Focus on one primary academic area 
 
 **Best for:** Families who have a strong school program in place and want supplemental support in one specific area.
 
